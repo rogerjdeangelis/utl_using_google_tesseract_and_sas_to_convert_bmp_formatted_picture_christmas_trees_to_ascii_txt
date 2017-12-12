@@ -1,0 +1,2 @@
+# utl_using_google_tesseract_and_sas_to_convert_bmp_formatted_picture_christmas_trees_to_ascii_txt
+Using google tesseract and SAS to convert bmp formatted picture of christmas trees to ascii txt
